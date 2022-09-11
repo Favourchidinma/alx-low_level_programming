@@ -9,7 +9,7 @@ int main(void)
 
 	for (i = '0'; i <= '9'; i++)
 	{
-		for (j =k; j <= '9'; j++)
+		for (j = k; j <= '9'; j++)
 		{
 			if (i != j)
 			{
